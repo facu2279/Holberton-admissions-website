@@ -5,6 +5,8 @@ General
 When I was taking my admission test to holberton one of the tests was to create my first website without having any prior knowledge.
 The page had certain guidelines to follow in terms of format and things to include.
 
+This page is not on any online server so if you want to see it in the browser you will need to clone this repository and open it from your pc, there are functions that are disabled when doing it from your pc, for example disquis only works if the page is on an online server Therefore, you will not be able to see the comments and that space will be empty, but beyond this, it will serve as an example of how this web page looks in general.
+
 Content information
 --------
 The website contains information about black and white photography.
