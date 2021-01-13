@@ -9,7 +9,7 @@ Content information
 --------
 The website contains information about black and white photography.
 It contains very famous images made in black and white with their respective information on where and when they were made as well as who took them.
-It also contains inserts from other web pages such as [Disquis](https://blog.disqus.com), [Twitter](https://twitter.com/home) and [Instagram](https://www.instagram.com/), which were part of the requirements.
+It also contains inserts from other web pages such as [Disquis](https://blog.disqus.com), [Twitter](https://twitter.com/home), [Youtube](https://www.youtube.com/) and [Instagram](https://www.instagram.com/), which were part of the requirements.
 
 Files
 -------
