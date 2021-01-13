@@ -1,4 +1,4 @@
-# Website for admission test holberton 
+# Website for admission test Holberton School
 
 General
 --------
